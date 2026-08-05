@@ -45,29 +45,6 @@ O projeto foi construído em duas frentes:
 
 > O layout é único e responsivo: a adaptação para mobile acontece via `@media` queries dentro de cada arquivo CSS (exceto `index.css`), e não em pastas separadas.
 
-<br>
-
-## 🎬 Demonstração
-
-<details>
-<summary><strong>🖥️ Clique para ver a versão Desktop</strong></summary>
-<br>
-
-<p align="center">
-  <img src="./assets/docs/desktop-demo.gif" width="700" alt="Demonstração da versão desktop" />
-</p>
-
-</details>
-
-<details>
-<summary><strong>📱 Clique para ver a versão Mobile</strong></summary>
-<br>
-
-<p align="center">
-  <img src="./assets/docs/mobile-demo.gif" width="300" alt="Demonstração da versão mobile" />
-</p>
-
-</details>
 
 <br>
 
